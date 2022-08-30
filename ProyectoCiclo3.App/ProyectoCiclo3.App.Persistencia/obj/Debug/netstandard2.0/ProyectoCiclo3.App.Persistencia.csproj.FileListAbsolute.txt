@@ -1,0 +1,4 @@
+C:\Users\DELLPHOTO\OneDrive\Desktop\83\ProyectoCiclo3.App\ProyectoCiclo3.App.Persistencia\obj\Debug\netstandard2.0\ProyectoCiclo3.App.Persistencia.csprojAssemblyReference.cache
+C:\Users\DELLPHOTO\OneDrive\Desktop\83\ProyectoCiclo3.App\ProyectoCiclo3.App.Persistencia\obj\Debug\netstandard2.0\ProyectoCiclo3.App.Persistencia.AssemblyInfoInputs.cache
+C:\Users\DELLPHOTO\OneDrive\Desktop\83\ProyectoCiclo3.App\ProyectoCiclo3.App.Persistencia\obj\Debug\netstandard2.0\ProyectoCiclo3.App.Persistencia.AssemblyInfo.cs
+C:\Users\DELLPHOTO\OneDrive\Desktop\83\ProyectoCiclo3.App\ProyectoCiclo3.App.Persistencia\obj\Debug\netstandard2.0\ProyectoCiclo3.App.Persistencia.csproj.CoreCompileInputs.cache
